@@ -1,4 +1,3 @@
-# Copy this file to application.properties and fill in your values
 spring.datasource.url=jdbc:mysql://localhost:3306/ask_your_doctor
 spring.datasource.username=YOUR_USERNAME
 spring.datasource.password=YOUR_PASSWORD
